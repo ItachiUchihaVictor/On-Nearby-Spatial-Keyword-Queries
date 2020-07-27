@@ -53,17 +53,29 @@ I. The format of Config.txt
 =======================
 
 \<Cost indicator\>
+
 \<Algorithm indicator\> 
+
 \<# of dimensions\>
+
 \<# of objects\>
+
 \<Location file\>
+
 \<# of keywords\>
+
 \<Keyword file\>
+
 \<IR-tree option\>
+
 \<IR-tree file\>
+
 \<# of query keywords\>
+
 \<query set size\>
+
 \<Percentile lower bound\>
+
 \<Percentile upper bound\>
 
 
