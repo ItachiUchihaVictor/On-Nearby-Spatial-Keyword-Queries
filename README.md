@@ -131,7 +131,7 @@ which format is explained in Appendix III.
 
 (See file config.txt in the folder for example)
 
-II. The format of <Location file>
+II. The format of \<Location file\>
 =============================
 
 ------------------------
