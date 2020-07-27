@@ -25,8 +25,8 @@ In IEEE Transactions on Knowledge and Data Engineering, 2019
 =======================
 
 Step 1: specify the data input information.
-<This could be done by editting the "config.txt" file
-which format is explained in Appendix I.>
+\<This could be done by editting the "config.txt" file
+which format is explained in Appendix I.\>
 
 Step 2: compile the source code
 make
@@ -35,8 +35,8 @@ Step 3: Run the code
 ./NSKQ
 
 Step 4: Collect the querying results and running statistics 
-[you can ignore this step if you don't want to collect the information of
-querying results and running statistics]
+\[you can ignore this step if you don't want to collect the information of
+querying results and running statistics\]
 
 the querying results are stored in "nskq_result.txt"
 which format is explained in Appendix IV.
@@ -52,80 +52,100 @@ which format is explained in Appendix V.
 I. The format of Config.txt
 =======================
 
-<Cost indicator>
-<Algorithm indicator> 
-<# of dimensions>
-<# of objects>
-<Location file>
-<# of keywords>
-<Keyword file>
-<IR-tree option>
-<IR-tree file>
-<# of query keywords>
-<query set size>
-<Percentile lower bound>
-<Percentile upper bound>
+\<Cost indicator\>
+\<Algorithm indicator\> 
+\<# of dimensions\>
+\<# of objects\>
+\<Location file\>
+\<# of keywords\>
+\<Keyword file\>
+\<IR-tree option\>
+\<IR-tree file\>
+\<# of query keywords\>
+\<query set size\>
+\<Percentile lower bound\>
+\<Percentile upper bound\>
 
 
 Explanation of the content in config.txt
+
 -----------------------
 
-<Cost indicator>
+\<Cost indicator\>
+	
 	= 1: the MaxSum cost function
+	
 	= 2: the Diameter cost function
 
-<Algorithm indicator> 
+\<Algorithm indicator\> 
+
 	= 1: MaxSum-Exact (Dia-Exact)
+	
 	= 2: MaxSum-Appro (Dia-Appro)
+	
 	= 3: Cao-Exact
+	
 	= 4: Cao-Appro1
+	
 	= 5: Cao-Appro2
+	
 	= 7: NSKQ-Appro1
+	
 	= 9: Adapt1-Cao1
+	
 	= 10: Adapt1-Cao2
+	
 	= 13: Adapt1-Long-Appro
+	
 	= 14: Adapt2-Cao1
+	
 	= 15: Adapt2-Cao2
+	
 	= 16: Adapt2-Long
+	
 	= 17: NSKQ-Appro2
+	
 	= 18: SKEC+
+	
 	= 19: SKEC
 
-<# of dimensions>
+\<# of dimensions\>
 	: the number of dimensions of spatial space.
 
-<# of objects>
+\<# of objects\>
 	: the number of spatial objects.
 
-<Location file>
+\<Location file\>
 	: the file containing the locations of the spatial objects,
 which format is explained in Appendix II.
 
-<# of keywords>
+\<# of keywords\>
 	: the total number of all possible keywords contained by the objects.
 
-<Keyword file>
+\<Keyword file\>
 	: the file containing the keywords of the spatial objects,
 which format is explained in Appendix III.
 
-<IR-tree option>
-	= 0: the IR-tree has been built (which will be built and stored in <IR-tree file>)
-	= 1: the IR-tree has been built (which is stored in <IR-tree file file>)
+\<IR-tree option\>
 
-<IR-tree file>
+	= 0: the IR-tree has been built (which will be built and stored in \<IR-tree file\>)
+	
+	= 1: the IR-tree has been built (which is stored in \<IR-tree file file\>)
+
+\<IR-tree file\>
 	: the file for storing a new (or an existing) IR-tree.
 
-<# of query keywords>
+\<# of query keywords\>
 	: the number of keywords in the query (i.e., |q.\psi|).
 
-<query set size>
+\<query set size\>
 	: the number of queries that will be performed for the same setting, 
 	the average statistics based on which will be used.
 
-<Percentile lower bound>
+\<Percentile lower bound\>
 	: the percentile lower bound that is used for generating queries.
 
-<Percentile upper bound>
+\<Percentile upper bound\>
 	: the percentile upper bound that is used for generating queries.
 
 
