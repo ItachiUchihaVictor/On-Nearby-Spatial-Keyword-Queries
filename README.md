@@ -228,8 +228,10 @@ same format as for Query #1.
 
 ...
 
+
 Query #t:
 same format as for Query #1
+
 ------------------------
 
 Note that 
@@ -239,7 +241,9 @@ Note that
 (See file nskq_results.txt in the folder for example)
 
 V. The format of \<nskq_stat.txt\>
+
 =============================
+
 \<Average cost function value\>
 
 
