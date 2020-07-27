@@ -90,16 +90,6 @@ Explanation of the content in config.txt
 	= 2: the Diameter cost function
 
 \<Algorithm indicator\> 
-
-	= 1: MaxSum-Exact (Dia-Exact)
-	
-	= 2: MaxSum-Appro (Dia-Appro)
-	
-	= 3: Cao-Exact
-	
-	= 4: Cao-Appro1
-	
-	= 5: Cao-Appro2
 	
 	= 7: NSKQ-Appro1
 	
@@ -113,7 +103,7 @@ Explanation of the content in config.txt
 	
 	= 15: Adapt2-Cao2
 	
-	= 16: Adapt2-Long
+	= 16: Adapt2-Long-Appro
 	
 	= 17: NSKQ-Appro2
 	
