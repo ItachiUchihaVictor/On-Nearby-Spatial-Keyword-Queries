@@ -85,7 +85,7 @@ Explanation of the content in config.txt
 
 \<Cost indicator\>
 	
-	= 1: Cost(o_q | O, q ) is the MaxSum cost function
+	 = 1: Cost(o_q | O, q ) is the MaxSum cost function
 	
 	 = 2: Cost(o_q | O, q) is the Diameter cost function
 	
