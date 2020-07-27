@@ -135,11 +135,16 @@ II. The format of \<Location file\>
 =============================
 
 ------------------------
+
 \<object ID1\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+
 \<object ID2\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+
 \<object ID3\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+
 ...
 \<object IDn\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+
 ------------------------
 
 Note that
@@ -152,11 +157,17 @@ III. The format of \<Keyword file\>
 =============================
 
 ------------------------
+
 \<object ID1\>, \<1st keyword\>, \<2nd keyword\>, ...
+
 \<object ID2\>, \<1st keyword\>, \<2nd keyword\>, ...
+
 \<object ID3\>, \<1st keyword\>, \<2nd keyword\>, ...
+
 ...
+
 \<object IDn\>, \<1st keyword\>, \<2nd keyword\>, ...
+
 ------------------------
 
 (See file running-doc in the folder for example)
