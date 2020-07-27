@@ -196,12 +196,16 @@ IV. The format of \<nskq_results.txt\>
 =============================
 
 ------------------------
+
 Query #1:
 Keywords: \<Keywords of the query\>
+
 ======================
+
 \<# of objects in the solution\>
 
 \<object ID1\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
+
 \<object ID2\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
 ...
 \<object IDk\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
@@ -226,21 +230,34 @@ V. The format of \<nskq_stat.txt\>
 =============================
 \<Average cost function value\>
 
+
 \<the time of building the IR-tree\>
+
 \<the average time of performing a query\>
 
+
 \<Memory usage\>
+
 \<IR-tree memory usage\>
+
 \<n_1\>
+
 \<|P|\>
+
 \<|O'|\>
+
 \<|\psi|\>
+
 
 \<|O_q|\>
 
+
 \<ratio_min\>
+
 \<ratio_max\>
+
 \<ratio_average\>
+
 \<ratio_deviation\>
 
 
