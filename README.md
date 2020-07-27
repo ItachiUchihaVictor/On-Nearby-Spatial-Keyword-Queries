@@ -135,11 +135,11 @@ II. The format of \<Location file\>
 =============================
 
 ------------------------
-<object ID1>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-<object ID2>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
-<object ID3>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
+\<object ID1\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+\<object ID2\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
+\<object ID3\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
 ...
-<object IDn>, <1st coordinate>, <2nd coordinate>, ..., <m^th coordinate>
+\<object IDn\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
 ------------------------
 
 Note that
@@ -148,32 +148,32 @@ Note that
 
 (See file running-loc in the folder for example)
 
-III. The format of <Keyword file>
+III. The format of \<Keyword file\>
 =============================
 
 ------------------------
-<object ID1>, <1st keyword>, <2nd keyword>, ...
-<object ID2>, <1st keyword>, <2nd keyword>, ...
-<object ID3>, <1st keyword>, <2nd keyword>, ...
+\<object ID1\>, \<1st keyword\>, \<2nd keyword\>, ...
+\<object ID2\>, \<1st keyword\>, \<2nd keyword\>, ...
+\<object ID3\>, \<1st keyword\>, \<2nd keyword\>, ...
 ...
-<object IDn>, <1st keyword>, <2nd keyword>, ...
+\<object IDn\>, \<1st keyword\>, \<2nd keyword\>, ...
 ------------------------
 
 (See file running-doc in the folder for example)
 
-IV. The format of <nskq_results.txt>
+IV. The format of \<nskq_results.txt\>
 =============================
 
 ------------------------
 Query #1:
-Keywords: <Keywords of the query>
+Keywords: \<Keywords of the query\>
 ======================
-<# of objects in the solution>
+\<# of objects in the solution\>
 
-<object ID1>: <1st relevant of this object> <2nd relevant of this object> ...
-<object ID2>: <1st relevant of this object> <2nd relevant of this object> ...
+\<object ID1\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
+\<object ID2\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
 ...
-<object IDk>: <1st relevant of this object> <2nd relevant of this object> ...
+\<object IDk\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
 
 
 Query #2:
@@ -187,30 +187,30 @@ same format as for Query #1
 
 Note that 
 	k = the number of objects in the solution
-	t = <query set size>
+	t = \<query set size\>
 
 (See file nskq_results.txt in the folder for example)
 
-V. The format of <nskq_stat.txt>
+V. The format of \<nskq_stat.txt\>
 =============================
-<Average cost function value>
+\<Average cost function value\>
 
-<the time of building the IR-tree>
-<the average time of performing a query>
+\<the time of building the IR-tree\>
+\<the average time of performing a query\>
 
-<Memory usage>
-<IR-tree memory usage>
-<n_1>
-<|P|>
-<|O'|>
-<|\psi|>
+\<Memory usage\>
+\<IR-tree memory usage\>
+\<n_1\>
+\<|P|\>
+\<|O'|\>
+\<|\psi|\>
 
-<|O_q|>
+\<|O_q|\>
 
-<ratio_min>
-<ratio_max>
-<ratio_average>
-<ratio_deviation>
+\<ratio_min\>
+\<ratio_max\>
+\<ratio_average\>
+\<ratio_deviation\>
 
 
 (See file nskq_stat.txt in the folder for example)
