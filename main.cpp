@@ -5,7 +5,7 @@
 
 /*
  *	Author: Victor Junqiu WEI
- *	Author: wjqjsnj@gmail.com
+ *	Email: wjqjsnj@gmail.com
  */
 #include "irtree.h"
 #include "costenum.h"

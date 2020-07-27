@@ -1,18 +1,17 @@
-1	
 1
+7
 
 2	
-579727
-web-loc	
+20790	
+hotel-loc	
 
-2899175
-web-doc	
+602
+hotel-doc	
 	
-1
-web-tree
+0
+hotel-tree
 
-
-15	
-10	
-10	
-90
+3
+100
+5	
+30

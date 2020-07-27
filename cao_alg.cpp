@@ -1,7 +1,7 @@
 
 /*
  *	Author: Victor Junqiu WEI
- *	Author: wjqjsnj@gmail.com
+ *	Email: wjqjsnj@gmail.com
  */
 
 #include "cao_alg.h"

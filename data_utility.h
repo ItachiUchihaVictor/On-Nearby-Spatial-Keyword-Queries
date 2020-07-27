@@ -1,6 +1,6 @@
 /*
  *	Author: Victor Junqiu WEI
- *	Author: wjqjsnj@gmail.com
+ *	Email: wjqjsnj@gmail.com
  */
 
 #ifndef DATA_UTILITY_H
@@ -26,7 +26,7 @@
 #define K_NN_PARAMETER			10
 
 #define	CONFIG_FILE				"IRTree_config.txt"
-#define	COSKQ_CONFIG_FILE		"config_hotel.txt"
+#define	COSKQ_CONFIG_FILE		"config.txt"
 #define	COSKQ_STAT_FILE			"nskq_stat.txt"
 #define	COSKQ_RESULT_FILE		"nskq_result.txt"
 

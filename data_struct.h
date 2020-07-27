@@ -1,6 +1,6 @@
 /*
  *	Author: Victor Junqiu WEI
- *	Author: wjqjsnj@gmail.com
+ *	Email: wjqjsnj@gmail.com
  */
 
 #ifndef DATA_STRUCT_H

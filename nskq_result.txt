@@ -2,7 +2,7 @@ Query #1:
 Keywords: 36  65  86  
 Cost: 155.9407
 
-Time: 0.043765
+Time: 0.042423
 
 Ratio: 1.000000
 
@@ -10,7 +10,7 @@ Query #2:
 Keywords: 581  82  126  
 Cost: 43.6231
 
-Time: 0.043298
+Time: 0.044782
 
 Ratio: 1.000000
 
@@ -18,7 +18,7 @@ Query #3:
 Keywords: 40  54  134  
 Cost: 117.5999
 
-Time: 0.056642
+Time: 0.059004
 
 Ratio: 1.000000
 
@@ -26,7 +26,7 @@ Query #4:
 Keywords: 564  47  28  
 Cost: 142.5300
 
-Time: 0.061694
+Time: 0.057390
 
 Ratio: 1.014271
 
@@ -34,7 +34,7 @@ Query #5:
 Keywords: 74  109  578  
 Cost: 123.7806
 
-Time: 0.044343
+Time: 0.041232
 
 Ratio: 1.000000
 
@@ -42,7 +42,7 @@ Query #6:
 Keywords: 107  96  98  
 Cost: 76.9918
 
-Time: 0.049646
+Time: 0.048703
 
 Ratio: 1.000000
 
@@ -50,7 +50,7 @@ Query #7:
 Keywords: 568  100  90  
 Cost: 180.8695
 
-Time: 0.042753
+Time: 0.044537
 
 Ratio: 1.000000
 
@@ -58,7 +58,7 @@ Query #8:
 Keywords: 45  32  60  
 Cost: 186.7476
 
-Time: 0.044126
+Time: 0.045391
 
 Ratio: 1.000000
 
@@ -66,7 +66,7 @@ Query #9:
 Keywords: 98  113  63  
 Cost: 99.8560
 
-Time: 0.042008
+Time: 0.045436
 
 Ratio: 1.000000
 
@@ -74,7 +74,7 @@ Query #10:
 Keywords: 123  130  91  
 Cost: 176.5486
 
-Time: 0.044532
+Time: 0.044900
 
 Ratio: 1.000000
 
@@ -82,7 +82,7 @@ Query #11:
 Keywords: 107  113  588  
 Cost: 163.1427
 
-Time: 0.044595
+Time: 0.046760
 
 Ratio: 1.000000
 
@@ -90,7 +90,7 @@ Query #12:
 Keywords: 569  42  566  
 Cost: 63.2273
 
-Time: 0.054961
+Time: 0.059576
 
 Ratio: 1.000000
 
@@ -98,7 +98,7 @@ Query #13:
 Keywords: 99  45  86  
 Cost: 192.1337
 
-Time: 0.052876
+Time: 0.049774
 
 Ratio: 1.001762
 
@@ -106,7 +106,7 @@ Query #14:
 Keywords: 596  580  563  
 Cost: 70.9795
 
-Time: 0.050231
+Time: 0.050953
 
 Ratio: 1.012054
 
@@ -114,7 +114,7 @@ Query #15:
 Keywords: 113  133  73  
 Cost: 98.3549
 
-Time: 0.040422
+Time: 0.041540
 
 Ratio: 1.000000
 
@@ -122,7 +122,7 @@ Query #16:
 Keywords: 27  130  81  
 Cost: 37.0646
 
-Time: 0.052060
+Time: 0.050148
 
 Ratio: 1.000000
 
@@ -130,7 +130,7 @@ Query #17:
 Keywords: 125  577  34  
 Cost: 52.5476
 
-Time: 0.041926
+Time: 0.041233
 
 Ratio: 1.000000
 
@@ -138,7 +138,7 @@ Query #18:
 Keywords: 102  106  600  
 Cost: 61.6884
 
-Time: 0.049552
+Time: 0.048811
 
 Ratio: 1.024320
 
@@ -146,7 +146,7 @@ Query #19:
 Keywords: 41  136  101  
 Cost: 55.7107
 
-Time: 0.048242
+Time: 0.049560
 
 Ratio: 1.000000
 
@@ -154,7 +154,7 @@ Query #20:
 Keywords: 596  33  590  
 Cost: 160.0500
 
-Time: 0.046360
+Time: 0.049983
 
 Ratio: 1.000000
 
@@ -162,7 +162,7 @@ Query #21:
 Keywords: 69  113  596  
 Cost: 94.0726
 
-Time: 0.045309
+Time: 0.045433
 
 Ratio: 1.080416
 
@@ -170,7 +170,7 @@ Query #22:
 Keywords: 50  582  576  
 Cost: 123.9613
 
-Time: 0.054786
+Time: 0.051581
 
 Ratio: 1.196714
 
@@ -178,7 +178,7 @@ Query #23:
 Keywords: 50  582  72  
 Cost: 160.8265
 
-Time: 0.044484
+Time: 0.044348
 
 Ratio: 1.000000
 
@@ -186,7 +186,7 @@ Query #24:
 Keywords: 587  61  575  
 Cost: 151.3678
 
-Time: 0.049879
+Time: 0.047466
 
 Ratio: 1.000000
 
@@ -194,7 +194,7 @@ Query #25:
 Keywords: 134  577  129  
 Cost: 100.4846
 
-Time: 0.045924
+Time: 0.042465
 
 Ratio: 1.007746
 
@@ -202,7 +202,7 @@ Query #26:
 Keywords: 101  106  55  
 Cost: 122.2094
 
-Time: 0.042723
+Time: 0.047144
 
 Ratio: 1.000000
 
@@ -210,7 +210,7 @@ Query #27:
 Keywords: 44  113  136  
 Cost: 59.2737
 
-Time: 0.045645
+Time: 0.044174
 
 Ratio: 1.000000
 
@@ -218,7 +218,7 @@ Query #28:
 Keywords: 584  117  67  
 Cost: 141.6222
 
-Time: 0.043135
+Time: 0.039855
 
 Ratio: 1.000000
 
@@ -226,7 +226,7 @@ Query #29:
 Keywords: 67  91  89  
 Cost: 114.7791
 
-Time: 0.040338
+Time: 0.041417
 
 Ratio: 1.000000
 
@@ -234,7 +234,7 @@ Query #30:
 Keywords: 84  79  104  
 Cost: 150.9542
 
-Time: 0.045149
+Time: 0.044778
 
 Ratio: 1.000427
 
@@ -242,7 +242,7 @@ Query #31:
 Keywords: 53  77  573  
 Cost: 75.2938
 
-Time: 0.040999
+Time: 0.040629
 
 Ratio: 1.000000
 
@@ -250,7 +250,7 @@ Query #32:
 Keywords: 83  127  571  
 Cost: 72.5794
 
-Time: 0.043857
+Time: 0.046518
 
 Ratio: 1.820439
 
@@ -258,7 +258,7 @@ Query #33:
 Keywords: 102  593  59  
 Cost: 113.9763
 
-Time: 0.043264
+Time: 0.042317
 
 Ratio: 1.601864
 
@@ -266,7 +266,7 @@ Query #34:
 Keywords: 597  88  104  
 Cost: 149.4083
 
-Time: 0.041580
+Time: 0.039164
 
 Ratio: 1.367929
 
@@ -274,7 +274,7 @@ Query #35:
 Keywords: 88  564  54  
 Cost: 170.5323
 
-Time: 0.040184
+Time: 0.041852
 
 Ratio: 1.000000
 
@@ -282,7 +282,7 @@ Query #36:
 Keywords: 117  574  559  
 Cost: 141.3278
 
-Time: 0.041406
+Time: 0.062836
 
 Ratio: 1.005011
 
@@ -290,7 +290,7 @@ Query #37:
 Keywords: 567  97  78  
 Cost: 175.2257
 
-Time: 0.059474
+Time: 0.068852
 
 Ratio: 1.003289
 
@@ -298,7 +298,7 @@ Query #38:
 Keywords: 46  596  43  
 Cost: 60.9705
 
-Time: 0.044680
+Time: 0.044436
 
 Ratio: 1.000000
 
@@ -306,7 +306,7 @@ Query #39:
 Keywords: 559  33  63  
 Cost: 85.5283
 
-Time: 0.043405
+Time: 0.041166
 
 Ratio: 1.000000
 
@@ -314,7 +314,7 @@ Query #40:
 Keywords: 40  41  134  
 Cost: 70.5880
 
-Time: 0.040772
+Time: 0.040661
 
 Ratio: 1.000000
 
@@ -322,7 +322,7 @@ Query #41:
 Keywords: 75  86  70  
 Cost: 96.9880
 
-Time: 0.040683
+Time: 0.041697
 
 Ratio: 1.224254
 
@@ -330,7 +330,7 @@ Query #42:
 Keywords: 584  107  75  
 Cost: 177.5250
 
-Time: 0.047678
+Time: 0.045599
 
 Ratio: 1.000000
 
@@ -338,7 +338,7 @@ Query #43:
 Keywords: 76  569  102  
 Cost: 77.5259
 
-Time: 0.049813
+Time: 0.050931
 
 Ratio: 1.164639
 
@@ -346,7 +346,7 @@ Query #44:
 Keywords: 568  56  589  
 Cost: 207.9921
 
-Time: 0.047167
+Time: 0.045057
 
 Ratio: 1.005628
 
@@ -354,7 +354,7 @@ Query #45:
 Keywords: 128  89  72  
 Cost: 97.7249
 
-Time: 0.064025
+Time: 0.044943
 
 Ratio: 1.008220
 
@@ -362,7 +362,7 @@ Query #46:
 Keywords: 42  134  79  
 Cost: 164.2165
 
-Time: 0.055904
+Time: 0.042518
 
 Ratio: 1.000000
 
@@ -370,7 +370,7 @@ Query #47:
 Keywords: 86  564  72  
 Cost: 120.7233
 
-Time: 0.051302
+Time: 0.049283
 
 Ratio: 1.024471
 
@@ -378,7 +378,7 @@ Query #48:
 Keywords: 41  88  36  
 Cost: 122.8644
 
-Time: 0.043031
+Time: 0.041612
 
 Ratio: 1.334526
 
@@ -386,7 +386,7 @@ Query #49:
 Keywords: 567  120  587  
 Cost: 128.4396
 
-Time: 0.041963
+Time: 0.042549
 
 Ratio: 1.000000
 
@@ -394,7 +394,7 @@ Query #50:
 Keywords: 573  133  76  
 Cost: 83.8752
 
-Time: 0.046217
+Time: 0.044515
 
 Ratio: 1.311355
 
@@ -402,7 +402,7 @@ Query #51:
 Keywords: 107  584  62  
 Cost: 31.6196
 
-Time: 0.047772
+Time: 0.046589
 
 Ratio: 1.002082
 
@@ -410,7 +410,7 @@ Query #52:
 Keywords: 52  137  99  
 Cost: 203.5277
 
-Time: 0.045155
+Time: 0.044248
 
 Ratio: 1.000219
 
@@ -418,7 +418,7 @@ Query #53:
 Keywords: 35  580  53  
 Cost: 96.8030
 
-Time: 0.043655
+Time: 0.042265
 
 Ratio: 1.673567
 
@@ -426,7 +426,7 @@ Query #54:
 Keywords: 119  586  91  
 Cost: 85.3629
 
-Time: 0.042841
+Time: 0.042630
 
 Ratio: 1.000000
 
@@ -434,7 +434,7 @@ Query #55:
 Keywords: 56  109  120  
 Cost: 72.1803
 
-Time: 0.044608
+Time: 0.045306
 
 Ratio: 1.000000
 
@@ -442,7 +442,7 @@ Query #56:
 Keywords: 132  33  574  
 Cost: 129.5468
 
-Time: 0.040465
+Time: 0.043250
 
 Ratio: 1.000000
 
@@ -450,7 +450,7 @@ Query #57:
 Keywords: 103  44  70  
 Cost: 61.2692
 
-Time: 0.046626
+Time: 0.045088
 
 Ratio: 1.020071
 
@@ -458,7 +458,7 @@ Query #58:
 Keywords: 32  63  127  
 Cost: 128.2401
 
-Time: 0.043626
+Time: 0.041354
 
 Ratio: 1.000000
 
@@ -466,7 +466,7 @@ Query #59:
 Keywords: 590  85  44  
 Cost: 159.1892
 
-Time: 0.041879
+Time: 0.042984
 
 Ratio: 1.231957
 
@@ -474,7 +474,7 @@ Query #60:
 Keywords: 63  600  93  
 Cost: 195.3442
 
-Time: 0.046267
+Time: 0.049180
 
 Ratio: 1.011921
 
@@ -482,7 +482,7 @@ Query #61:
 Keywords: 575  120  566  
 Cost: 108.2020
 
-Time: 0.048612
+Time: 0.050171
 
 Ratio: 1.000000
 
@@ -490,7 +490,7 @@ Query #62:
 Keywords: 584  559  574  
 Cost: 86.2486
 
-Time: 0.042763
+Time: 0.043473
 
 Ratio: 1.354795
 
@@ -498,7 +498,7 @@ Query #63:
 Keywords: 571  113  101  
 Cost: 166.6338
 
-Time: 0.041521
+Time: 0.038303
 
 Ratio: 1.009136
 
@@ -506,7 +506,7 @@ Query #64:
 Keywords: 82  117  85  
 Cost: 56.6848
 
-Time: 0.042581
+Time: 0.044674
 
 Ratio: 1.000594
 
@@ -514,7 +514,7 @@ Query #65:
 Keywords: 48  93  596  
 Cost: 119.0401
 
-Time: 0.043732
+Time: 0.044539
 
 Ratio: 1.000000
 
@@ -522,7 +522,7 @@ Query #66:
 Keywords: 59  91  595  
 Cost: 194.7003
 
-Time: 0.051163
+Time: 0.047128
 
 Ratio: 1.000255
 
@@ -530,7 +530,7 @@ Query #67:
 Keywords: 573  72  64  
 Cost: 149.0223
 
-Time: 0.042222
+Time: 0.040222
 
 Ratio: 1.046998
 
@@ -538,7 +538,7 @@ Query #68:
 Keywords: 40  130  586  
 Cost: 171.5899
 
-Time: 0.052380
+Time: 0.051136
 
 Ratio: 1.000000
 
@@ -546,7 +546,7 @@ Query #69:
 Keywords: 117  42  102  
 Cost: 82.5412
 
-Time: 0.043454
+Time: 0.045064
 
 Ratio: 1.000057
 
@@ -554,7 +554,7 @@ Query #70:
 Keywords: 120  53  580  
 Cost: 150.0735
 
-Time: 0.042770
+Time: 0.041867
 
 Ratio: 1.005751
 
@@ -562,7 +562,7 @@ Query #71:
 Keywords: 76  121  47  
 Cost: 126.2139
 
-Time: 0.040866
+Time: 0.043832
 
 Ratio: 1.000000
 
@@ -570,7 +570,7 @@ Query #72:
 Keywords: 74  79  111  
 Cost: 132.8184
 
-Time: 0.040770
+Time: 0.040635
 
 Ratio: 1.013438
 
@@ -578,7 +578,7 @@ Query #73:
 Keywords: 89  116  564  
 Cost: 91.4205
 
-Time: 0.047363
+Time: 0.049151
 
 Ratio: 1.013026
 
@@ -586,7 +586,7 @@ Query #74:
 Keywords: 65  81  116  
 Cost: 122.1309
 
-Time: 0.041500
+Time: 0.042760
 
 Ratio: 1.008768
 
@@ -594,7 +594,7 @@ Query #75:
 Keywords: 565  34  90  
 Cost: 32.5707
 
-Time: 0.056267
+Time: 0.052084
 
 Ratio: 1.038940
 
@@ -602,7 +602,7 @@ Query #76:
 Keywords: 574  573  75  
 Cost: 73.8370
 
-Time: 0.047530
+Time: 0.044707
 
 Ratio: 1.000000
 
@@ -610,7 +610,7 @@ Query #77:
 Keywords: 55  133  120  
 Cost: 101.5862
 
-Time: 0.041985
+Time: 0.041785
 
 Ratio: 1.000000
 
@@ -618,7 +618,7 @@ Query #78:
 Keywords: 39  94  99  
 Cost: 77.3245
 
-Time: 0.045576
+Time: 0.045130
 
 Ratio: 1.000000
 
@@ -626,7 +626,7 @@ Query #79:
 Keywords: 61  66  592  
 Cost: 93.7300
 
-Time: 0.040404
+Time: 0.047304
 
 Ratio: 1.000000
 
@@ -634,7 +634,7 @@ Query #80:
 Keywords: 67  582  77  
 Cost: 162.4559
 
-Time: 0.043729
+Time: 0.042236
 
 Ratio: 1.000000
 
@@ -642,7 +642,7 @@ Query #81:
 Keywords: 121  96  45  
 Cost: 191.3039
 
-Time: 0.043482
+Time: 0.045806
 
 Ratio: 1.000000
 
@@ -650,7 +650,7 @@ Query #82:
 Keywords: 100  594  49  
 Cost: 36.1455
 
-Time: 0.047864
+Time: 0.046288
 
 Ratio: 1.152696
 
@@ -658,7 +658,7 @@ Query #83:
 Keywords: 64  111  62  
 Cost: 44.0000
 
-Time: 0.051274
+Time: 0.048594
 
 Ratio: 1.000000
 
@@ -666,7 +666,7 @@ Query #84:
 Keywords: 46  567  86  
 Cost: 101.2792
 
-Time: 0.056644
+Time: 0.055963
 
 Ratio: 1.000000
 
@@ -674,7 +674,7 @@ Query #85:
 Keywords: 110  107  32  
 Cost: 94.4770
 
-Time: 0.048882
+Time: 0.051756
 
 Ratio: 1.019575
 
@@ -682,7 +682,7 @@ Query #86:
 Keywords: 597  27  35  
 Cost: 41.5883
 
-Time: 0.043121
+Time: 0.043022
 
 Ratio: 1.000000
 
@@ -690,7 +690,7 @@ Query #87:
 Keywords: 99  126  42  
 Cost: 109.0449
 
-Time: 0.041117
+Time: 0.041781
 
 Ratio: 1.000000
 
@@ -698,7 +698,7 @@ Query #88:
 Keywords: 72  77  47  
 Cost: 71.9738
 
-Time: 0.044454
+Time: 0.046794
 
 Ratio: 1.000000
 
@@ -706,7 +706,7 @@ Query #89:
 Keywords: 66  560  55  
 Cost: 111.3563
 
-Time: 0.047191
+Time: 0.046999
 
 Ratio: 1.003587
 
@@ -714,7 +714,7 @@ Query #90:
 Keywords: 131  32  584  
 Cost: 161.9402
 
-Time: 0.042218
+Time: 0.045119
 
 Ratio: 1.038212
 
@@ -722,7 +722,7 @@ Query #91:
 Keywords: 64  33  95  
 Cost: 111.8989
 
-Time: 0.044697
+Time: 0.042623
 
 Ratio: 1.000000
 
@@ -730,7 +730,7 @@ Query #92:
 Keywords: 124  43  51  
 Cost: 88.0917
 
-Time: 0.040819
+Time: 0.042325
 
 Ratio: 1.063201
 
@@ -738,7 +738,7 @@ Query #93:
 Keywords: 595  32  128  
 Cost: 130.2393
 
-Time: 0.041799
+Time: 0.045182
 
 Ratio: 1.261652
 
@@ -746,7 +746,7 @@ Query #94:
 Keywords: 64  45  46  
 Cost: 104.0785
 
-Time: 0.045634
+Time: 0.043350
 
 Ratio: 1.000000
 
@@ -754,7 +754,7 @@ Query #95:
 Keywords: 588  104  28  
 Cost: 86.0294
 
-Time: 0.045303
+Time: 0.046530
 
 Ratio: 1.089762
 
@@ -762,7 +762,7 @@ Query #96:
 Keywords: 569  43  70  
 Cost: 155.0526
 
-Time: 0.042135
+Time: 0.043147
 
 Ratio: 1.012611
 
@@ -770,7 +770,7 @@ Query #97:
 Keywords: 73  53  78  
 Cost: 183.4424
 
-Time: 0.042226
+Time: 0.046432
 
 Ratio: 1.000000
 
@@ -778,7 +778,7 @@ Query #98:
 Keywords: 136  43  97  
 Cost: 83.5439
 
-Time: 0.051421
+Time: 0.053212
 
 Ratio: 1.000000
 
@@ -786,7 +786,7 @@ Query #99:
 Keywords: 36  137  77  
 Cost: 158.3138
 
-Time: 0.041403
+Time: 0.042727
 
 Ratio: 1.068053
 
@@ -794,7 +794,7 @@ Query #100:
 Keywords: 137  85  91  
 Cost: 121.0321
 
-Time: 0.048615
+Time: 0.050292
 
 Ratio: 1.000000
 
