@@ -85,9 +85,11 @@ Explanation of the content in config.txt
 
 \<Cost indicator\>
 	
-	= 1: the MaxSum cost function
+	= 1: Cost(o_q | O, q ) is the MaxSum cost function
 	
-	= 2: the Diameter cost function
+	 = 2: Cost(o_q | O, q) is the Diameter cost function
+	
+In our paper, we use the Diameter cost function and thus, please keep it as 2. 
 
 \<Algorithm indicator\> 
 	
