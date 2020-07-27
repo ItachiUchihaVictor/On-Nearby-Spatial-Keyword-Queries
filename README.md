@@ -175,6 +175,7 @@ II. The format of \<Location file\>
 \<object ID3\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
 
 ...
+
 \<object IDn\>, \<1st coordinate\>, \<2nd coordinate\>, ..., \<m^th coordinate\>
 
 ------------------------
@@ -205,6 +206,7 @@ III. The format of \<Keyword file\>
 (See file running-doc in the folder for example)
 
 IV. The format of \<nskq_results.txt\>
+
 =============================
 
 ------------------------
@@ -219,7 +221,9 @@ Keywords: \<Keywords of the query\>
 \<object ID1\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
 
 \<object ID2\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
+
 ...
+
 \<object IDk\>: \<1st relevant of this object\> \<2nd relevant of this object\> ...
 
 
