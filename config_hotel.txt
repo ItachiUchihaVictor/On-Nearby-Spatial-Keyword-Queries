@@ -1,0 +1,17 @@
+1
+7
+
+2	
+20790	
+hotel-loc	
+
+602
+hotel-doc	
+	
+0
+hotel-tree
+
+3
+100
+5	
+30

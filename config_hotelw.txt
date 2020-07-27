@@ -1,0 +1,17 @@
+2
+16
+
+2	
+20790	
+hotelw40-loc	
+
+602
+hotelw40-doc	
+	
+1
+hotelw40-tree
+
+3
+50	
+5	
+30
