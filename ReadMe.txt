@@ -1,7 +1,7 @@
 
 Before you use this code, you should know
 =======================
-	1. This code was used for the empirical study of the NSKQ'2019 paper 
+	1. This code was used for the empirical study of the TKDE'2019 paper 
 	"On Nearby-Fit Spatial Keyword Queries".
 	1. This code is developed by Victor Junqiu WEI (wjqjsnj@gmail.com).
 	2. This code is written in C/C++.
